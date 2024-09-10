@@ -1,8 +1,8 @@
+pip==24.2
+numpy==1.23.0
 opencv-python
 streamlit
-numpy
-cvzone
-numpy
-math
-cv2
+tensorflow  
+cvzone 
+
 
