@@ -1,0 +1,9 @@
+opencv-python
+streamlit
+numpy
+tensorflow
+cvzone
+numpy
+math
+cv2
+time
